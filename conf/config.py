@@ -34,11 +34,11 @@ SERVER_ID = "d652934989994dff9396dc1fd4baeac9"
 SECRET_KEY_NAME = "private_20201010201635.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://lineworks-talk-bot.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
-DB_NAME = "x3mdxxxxsg5nx"
-DB_USER = "xsozxxxxvksikx"
+DB_HOST = "ec2-34-235-62-201.compute-1.amazonaws.com"
+DB_NAME = "dccvpunu1e7k0h"
+DB_USER = "oemzcastkximrh"
 DB_PORT = "5432"
-DB_PASSWORD = "xxxxxb3ff80c85d331da880f4b3e0xxxxxxxxxxxd552d64d128317653ce0xxxx"
+DB_PASSWORD = "e682fc310ed81dadf3088f0cbc4f418eee201a9c837fb066b3bc8d4f68aba743x"
